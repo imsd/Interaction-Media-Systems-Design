@@ -7,6 +7,6 @@
 * collect as much as possible in order to break through the walls.
 * You win !!!
 
-![Alt Text](https://imgur.com/3zICxDy)
+![Alt Text](https://media.giphy.com/media/3ov9k0bmJr4j8cYOLS/giphy.gif)
 			
 
