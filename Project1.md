@@ -1,4 +1,4 @@
-# Unity project 2 ---- TicTT
+# Unity project 1 ---- Budget PaccMan
 
 #Instructions 
 * Use arrow keys to move the player(Yellow)
