@@ -1,4 +1,4 @@
-# Unity project 1 ---- Botleg paccman
+# Unity project 2 ---- TicTT
 
 #Instructions 
 * Use arrow keys to move the player(Yellow)
