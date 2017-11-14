@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/twitter-unity/twitt.unity
+  isLoaded: 1
+  isActive: 1
