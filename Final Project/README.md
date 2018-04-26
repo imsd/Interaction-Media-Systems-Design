@@ -1,1 +1,1 @@
-This is my final project, its based on the universe... Real time. NOT tO SCALE
+This is my final project, its based on the universe that from the orbital masses and radius of each planet to determine the speed of rotation it is in.. when you hover to the planet, a text will show up its detail.
